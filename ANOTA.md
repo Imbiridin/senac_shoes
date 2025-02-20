@@ -41,6 +41,12 @@ Podemos utilizar os () para quebrar ou organizar uma operação.
 2. while
 => Será utilizado quando você não sabe ao certo quantas vezes a repetição irá acontecer. Será executado enquanto a condição for verdadeira.
 
+# Aula 06
+## COMANDOS DE DESVIO
+1. continue -> significa continuar, basicamente se uma condição for favorável, ela será desconsiderada.
+
+2. break -> Significa quebrar, quando utilizado irá finalizar o loop mais próximo.
+
 ## Atalhos no VScode
 ``CTRL + B`` => Oculta ou exibe o explorador.
 ``CTRL + ;`` => Comenta ou descomenta um código.
