@@ -47,6 +47,10 @@ Podemos utilizar os () para quebrar ou organizar uma operação.
 
 2. break -> Significa quebrar, quando utilizado irá finalizar o loop mais próximo.
 
+## FUNÇÕES
+=> É um bloco de código que é reutilizável. Serve para deixar o código organizado e eficiente. `Executam uma tarefa específica.`
+
+
 ## Atalhos no VScode
 ``CTRL + B`` => Oculta ou exibe o explorador.
 ``CTRL + ;`` => Comenta ou descomenta um código.
