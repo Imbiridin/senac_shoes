@@ -50,6 +50,29 @@ Podemos utilizar os () para quebrar ou organizar uma operação.
 ## FUNÇÕES
 => É um bloco de código que é reutilizável. Serve para deixar o código organizado e eficiente. `Executam uma tarefa específica.`
 
+# Aula 07
+## PRINCÍPIOS DA PROGRAMAÇÃO ORIENTADA A OBJETOS (P.O.O.)
+1. ENCAPSULAMENTO
+2. HERANÇA -> É um conceito de P.O.O. que um classe herde atributos e métodos de outra, evitando a repetição de código.
+3. POLIMORFISMO
+4. ABSTRAÇÃO
+
+## PALAVRAS RESERVADAS EM P.O.O.
+1. `class` -> É uma palavra-chave em python onde você cria um `molde`. Toda classe pode ter atibutos e métodos, sendo que os atributos precisam estar dentro de um método chamado construtor (__init__).
+2. `object` -> É um nome dado a cada `cópia` criada da classe. ambém conhecido como instância.
+3. `__init__` -> É um inicializador(construtor) onde você informa que toda cópia precisa passar aqueles valores no momento da criação. É um método especial.
+4. `self` -> Referencia o atributo atual da classe(valor).
+
+## TERMOS UTILIZADOS EM P.O.O.
+1. método -> É uma função que está dentro de uma classe. É uma ação.
+2. atributo -> São as características de uma classe. 
+
+## HERANÇA
+Teremos 2 tipos de classes: 
+- superclass -> É a classe pai, é a que oferece a herança.
+- subclass -> É a classe filha, que herda a herança. 
+
+
 
 ## Atalhos no VScode
 ``CTRL + B`` => Oculta ou exibe o explorador.
